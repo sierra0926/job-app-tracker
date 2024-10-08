@@ -7,9 +7,9 @@ Goal of this project is to create a program that iterates through a gmail accoun
 I successfully set up gmail API to connect to an account. Now, I am working on reading messages from gmail and will eventually work on importing those messages onto a sheet.
 
 ## future plans
-[ ] connect gmail api
-[ ] retrieve emails with header, contents, and sender
-[ ] research machine learning methods
-[ ] implement machine learning with job app emails sorted by human
-[ ] set up google sheet with emails and import
+[ ] connect gmail api <br />
+[ ] retrieve emails with header, contents, and sender <br />
+[ ] research machine learning methods <br />
+[ ] implement machine learning with job app emails sorted by human <br />
+[ ] set up google sheet with emails and import <br />
 [ ] figure out how to run autonomously
